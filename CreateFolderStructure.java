@@ -31,14 +31,21 @@ public class CreateFolderStructure {
             if(!courseDirectory.exists()) {
                 courseDirectory.mkdir(); 
                 //call method that create directory structure inside each course directory
+                createSubdirectories(courseDirectory);
             }
             System.out.println();
         }
-
-
-
-
-
     }
-    
+
+    public static void createSubdirectories(File path) {
+        List<String> subDirectoriesNames = Arrays.asList("Slides", "Labs", "ClassesNotes", "ImportantMaterial");
+
+        for(String folderName : subDirectoriesNames) {
+            File subFolder = new File(path + File.separator + folderName); 
+
+            if(!subFolder.exists()) {
+                subFolder.mkdir(); 
+            }
+        }
+    }
 }
