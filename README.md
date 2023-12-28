@@ -35,11 +35,6 @@ Instructions Fork this Repository Clone your forked repository Add your scripts 
 
 Note: When you Add a project Add it to the README for ease of finding it Note: Please do not put the project link to reference your local forked repo. Always link it to this repo after it's been merged with main.
 
-## Requirements
-This module requires no modules outside of the branch. 
-
-To use the Open Weather API, you will need to get a key to access the information. 
-
 ## License
 
 [MIT License](https://choosealicense.com/licenses/mit/)
@@ -53,8 +48,6 @@ To use the Open Weather API, you will need to get a key to access the informatio
 - [Repo](https://github.com/tsdamas/create-semester-folder-structure "<create-semester-folder-structure> Repo")
 
 - [Bugs](https://github.com/tsdamas/create-semester-folder-structure/issues "Issues Page")
-
-## Future Updates
 
 ## Author
 
