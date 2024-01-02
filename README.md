@@ -1,6 +1,6 @@
 # create-semester-folder-structure
 
-This projects serves to automate a basic process of creating folder structure for your next semester in College. 
+Welcome to create a semester folder struture project! Have you ever wonder why spending one minute creating a folder struture, when you can spend spend 20 seconds or even less doing that? Tired of tediously creating folder structures on Windows? Say goodbye to folder creation monotony, this repo arrives with its mystical Java spells to do the heavy lifting for you! 
 
 ## Description
 
